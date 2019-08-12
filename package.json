@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stanidesis/toastyplugin.git"
+    "url": "git+https://github.com/josajunior81/cordova-ToastyPlugin.git"
   },
   "keywords": [
     "Toast",
@@ -23,13 +23,9 @@
   "engines": [
     {
       "name": "cordova",
-      "version": ">=3.0.0"
+      "version": ">=6.3.0"
     }
   ],
-  "author": "Stanley Idesis <stan.idesis@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/stanidesis/toastyplugin/issues"
-  },
-  "homepage": "https://github.com/stanidesis/toastyplugin/"
+  "author": "Josafá Souza Jr. <josafassj@gmail.com>",
+  "license": "MIT"
 }
